@@ -1,5 +1,6 @@
 package cinema;
 
+
 public class Cinema {
 
     public static void main(String[] args) {
@@ -9,10 +10,5 @@ public class Cinema {
         CinemaHall hall = new CinemaHall(rows, seatsPerRow);
         hall.showMenu();
     }
-
-
-
-
-
-
 }
+
